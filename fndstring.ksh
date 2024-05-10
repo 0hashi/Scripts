@@ -3,8 +3,7 @@
 #       Code: Paul Ohashi, Quest Software
 #       Date: April 7, 2003
 #
-#       fndstring recursively searches directories for
-#       files (text and binary) containing a string.
+#       fndstring recursively searches directories for files (text and binary) containing a string.
 #
 #       Once upon a time in a support job long ago, I created this script
 #       to help me find strings in configuration files, text files and even
