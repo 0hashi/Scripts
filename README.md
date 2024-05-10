@@ -1,2 +1,2 @@
 # shell
- Collection of shell scripts
+My collection of shell scripts
